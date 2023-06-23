@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Luiza, I am 21 years old.
+My name is Luiza, I am 21 years old. <br>
 Studying Analysis and systems development
 
 ##
