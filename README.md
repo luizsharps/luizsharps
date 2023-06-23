@@ -3,8 +3,8 @@
 My name is Luiza, I am 21 years old.
 Studying Analysis and systems development
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizsharps&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizsharps&theme=github_dark_dimmed)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizsharps&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats&size_weight=1&count_weight=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizsharps&theme=github_dark_dimmed&size_weight=1&count_weight=1)
 
 <!--
 **luizsharps/luizsharps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
