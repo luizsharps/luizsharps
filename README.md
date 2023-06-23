@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am at Analysis and Systems Development course in University.
+
 <!--
 **luizsharps/luizsharps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
