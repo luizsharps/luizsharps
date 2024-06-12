@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Luiza, I am 21 years old. <br>
+My name is Luiza, I am 22 years old. <br>
 Studying Analysis and systems development
 <!--
 **luizsharps/luizsharps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
